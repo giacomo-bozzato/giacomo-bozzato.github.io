@@ -1509,6 +1509,34 @@ a:visited {
   border-radius: 0vw;
 }
 
+.cansei-new-block {
+  width: 100%;
+  overflow: hidden;
+  margin-top: 0vw;
+  position: relative;
+  height: 43vw;
+  margin-bottom: -2vw;
+  margin-top: 5vw;
+}
+
+#new_award {
+  height: 80vw;
+  overflow: hidden;
+  background-color: transparent;
+  position: relative;
+  width: 96%;
+  margin-left: 2vw;
+}
+
+#new_award img {
+  width: 100%;
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 0vw;
+}
+
 
 
 
